@@ -281,5 +281,12 @@
     "category": "collections",
     "desc": "Five MIT-licensed productivity skills for AI coding agents: meeting notes, code review checklist, deep research framework, tech writing proofread, and git commit messages.",
     "repo": "alapha888/agent-skills-en"
+  },
+  {
+    "name": "Aident Loadout",
+    "repo": "Aident-AI/aident-skill",
+    "url": "https://aident.ai",
+    "category": "market",
+    "desc": "Capability layer and Agent Skill that connects Codex, Claude Code, Cursor and ChatGPT to 1,000+ apps and 400+ Skills through one remote MCP with Vault-protected credentials."
   }
 ]
